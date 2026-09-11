@@ -18,4 +18,4 @@ gb_model.fit(X_train, y_train)
 print('Training process completed successfully')
 
 
-joblib.dump(gb_model, '../model/final_model_weights.pkl')
+joblib.dump(gb_model, 'final_model_weights.pkl')
