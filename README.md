@@ -12,6 +12,7 @@ The project files are organized as follows:
 
 *   **`model/`**
     *   `app.py`: Deployment script for the predictive application.
+    *   `model.py`: Implementation of the final Gradient Boosting model, selected based on its superior performance during model evaluation.
     *   `final_model_weights.pkl`: Serialized weights of the final selected model.
 *   **`notebooks/`**
     *   `01_data_cleaning.ipynb`: Identification and handling of missing values, duplicate removal, and categorical normalization using Pandas.
@@ -24,6 +25,11 @@ The project files are organized as follows:
 ## Setup & Execution
 *   Run the notebooks sequentially (01 through 04) to replicate the data flow from raw ingestion to final model evaluation.
 *   **Requirements:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
+
+## Deployment
+The final trained model has been deployed as an interactive web application using Streamlit.Users can access the application, enter the required demographic and employment information, and receive a predicted income class directly through the deployed machine learning model.
+
+**Live Web Application**: https://adult-income-prediction-model.streamlit.app/
 
 ## Final Models Benchmark
 ![alt text](final_evaluation.png)
