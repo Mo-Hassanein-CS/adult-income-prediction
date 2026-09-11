@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 import pandas as pd
 
-model = joblib.load("model/final_model_weights.pkl")
+model = joblib.load("final_model_weights.pkl")
 
 
 # --- 1. PAGE CONFIGURATION & STYLING ---
