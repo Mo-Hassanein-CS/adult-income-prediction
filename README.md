@@ -3,6 +3,12 @@
 ## Project Overview
 This repository contains an end-to-end machine learning pipeline designed to predict whether an individual earns more than $50K a year based on demographic and employment data. The workflow covers data cleaning, exploratory data analysis, robust preprocessing using scikit-learn pipelines, and the evaluation of multiple classification models.
 
+## Project Contributers
+
+- Eng. [Ayat Sherif](https://github.com/ayatsherief970-wq)
+- Eng. [Habiba Ibrahim](https://github.com/habibaa-ibrahim)
+- Eng. [Zahraa Elazb](https://github.com/zahraa-elazb77)
+
 ## Dataset
 The project utilizes the Adult Income Dataset. It features 14 demographic and financial variables, including age, workclass, education, marital status, occupation, relationship, race, sex, capital gain, capital loss, hours per week, and native country[cite: 1].
 *   **Data Link:** [Kaggle - Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
