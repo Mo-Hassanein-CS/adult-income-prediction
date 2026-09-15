@@ -10,7 +10,7 @@ This repository contains an end-to-end machine learning pipeline designed to pre
 - Eng. [Zahraa Elazb](https://github.com/zahraa-elazb77)
 
 ## Dataset
-The project utilizes the Adult Income Dataset. It features 14 demographic and financial variables, including age, workclass, education, marital status, occupation, relationship, race, sex, capital gain, capital loss, hours per week, and native country[cite: 1].
+The project utilizes the Adult Income Dataset. It features 14 demographic and financial variables, including age, workclass, education, marital status, occupation, relationship, race, sex, capital gain, capital loss, hours per week, and native country.
 *   **Data Link:** [Kaggle - Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 ## Repository Structure
