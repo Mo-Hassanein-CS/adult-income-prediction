@@ -5,6 +5,7 @@ This repository contains an end-to-end machine learning pipeline designed to pre
 
 ## Project Contributors
 
+- Eng. [Mohamed Hassanein](https://github.com/Mo-Hassanein-CS)
 - Eng. [Ayat Sherif](https://github.com/ayatsherief970-wq)
 - Eng. [Habiba Ibrahim](https://github.com/habibaa-ibrahim)
 - Eng. [Zahraa Elazb](https://github.com/zahraa-elazb77)
