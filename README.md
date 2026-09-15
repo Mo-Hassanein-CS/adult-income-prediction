@@ -7,8 +7,8 @@ This repository contains an end-to-end machine learning pipeline designed to pre
 
 - Eng. [Mohamed Hassanein](https://github.com/Mo-Hassanein-CS)
 - Eng. [Ayat Sherif](https://github.com/ayatsherief970-wq)
-- Eng. [Habiba Ibrahim](https://github.com/habibaa-ibrahim)
 - Eng. [Zahraa Elazb](https://github.com/zahraa-elazb77)
+- Eng. [Habiba Ibrahim](https://github.com/habibaa-ibrahim)
 
 ## Dataset
 The project utilizes the Adult Income Dataset. It features 14 demographic and financial variables, including age, workclass, education, marital status, occupation, relationship, race, sex, capital gain, capital loss, hours per week, and native country.
